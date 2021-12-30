@@ -22,7 +22,7 @@ Aspiring full-stack web developer with a keen interest in working with product-b
 -------------------
 
 ## Contact
-<a href="biswajit.007.private@gmail.com">![Gmail](https://img.shields.io/badge/BiswajitDas-%231DA1F2.svg?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="biswajit.007.private@gmail.com">![LinkedIn](https://img.shields.io/badge/BiswajitDas-%231DA1F2.svg?style=for-the-badge&logo=linkedIn&logoColor=white)</a> <a href="https://www.instagram.com/biswajit_das_16/">![Instagram](https://img.shields.io/badge/BiswajitDas-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/biswajitdas_16">![Twitter](https://img.shields.io/badge/BiswajitDas-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/biswajit-das-a94347210/">![LinkedIn](https://img.shields.io/badge/BiswajitDas-%231DA1F2.svg?style=for-the-badge&logo=linkedIn&logoColor=white)</a> <a href="https://www.instagram.com/biswajit_das_16/">![Instagram](https://img.shields.io/badge/BiswajitDas-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/biswajitdas_16">![Twitter](https://img.shields.io/badge/BiswajitDas-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 
 -------------------
 
