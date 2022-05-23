@@ -10,7 +10,7 @@
 
 - 👨‍💻 Checkout my portfolio [@biswajit-das](https://portfolio-biswajit-das.vercel.app/)
 
-- ⚡ Fun fact **Coding is a passion and not profession.**
+- ⚡ Fun fact **I love mountains :sunrise_over_mountains:**
 
 
 ---
