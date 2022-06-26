@@ -1,10 +1,10 @@
 
    
 <p align="center">
-  <img style="width:8rem; height:auto" src="https://github.com/biswajitdas-007/biswajitdas-007/blob/main/DSC_0121-modified.png?raw=true"/>
+  <img style="width:8rem; height:auto" src="https://github.com/biswajitdas-007/biswajitdas-007/blob/main/profile_black.png?raw=true"/>
 </p>
 
-<h1 align="center">Hi, I'm Biswajit Das<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Hi, I'm Biswajit Das <img width="30px" height="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate full-stack developer and a student from India.</h3>
 
 
