@@ -1,7 +1,7 @@
 
    
 <p align="center">
-  <img style="width:8rem; height:auto" src="https://github.com/biswajitdas-007/biswajitdas-007/blob/main/profile_black.png?raw=true"/>
+  <img style="width:8rem; height:auto" src="https://images.pexels.com/photos/19015823/pexels-photo-19015823.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"/>
 </p>
 
 <h1 align="center">Hi, I'm Biswajit Das <img width="30px" height="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
