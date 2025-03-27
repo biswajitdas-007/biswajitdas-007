@@ -23,7 +23,7 @@
 - 🏔️ Fun fact: I love mountains :sunrise_over_mountains:
 
 <p align="center">
-  <a href="https://portfolio-biswajit-das.vercel.app/">
+  <a href="https://www.biswajitdas.dev">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
 </p>
