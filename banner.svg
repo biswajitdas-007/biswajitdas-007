@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Biswajit Das — Full Stack Engineer. Interface, service, data and infrastructure layers.">
+
+  <defs>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#F0883E" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#F0883E" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#F0883E" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="sweepBlue" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#58A6FF" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
+    </linearGradient>
+
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#21262D"/>
+    </pattern>
+
+    <clipPath id="c1"><rect x="672" y="60"  width="468" height="40" rx="8"/></clipPath>
+    <clipPath id="c2"><rect x="672" y="110" width="468" height="40" rx="8"/></clipPath>
+    <clipPath id="c3"><rect x="672" y="160" width="468" height="40" rx="8"/></clipPath>
+    <clipPath id="c4"><rect x="672" y="210" width="468" height="40" rx="8"/></clipPath>
+  </defs>
+
+  <style>
+    .sans { font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+
+    @keyframes sweep { 0% { transform: translateX(-300px); } 55%, 100% { transform: translateX(560px); } }
+    @keyframes pulse { 0%, 100% { opacity: .3; } 50% { opacity: 1; } }
+
+    .sw   { animation: sweep 4.5s cubic-bezier(.4,0,.2,1) infinite; }
+    .dot  { animation: pulse 4.5s ease-in-out infinite; }
+    .d1 { animation-delay: 0s; } .d2 { animation-delay: .35s; }
+    .d3 { animation-delay: .7s; } .d4 { animation-delay: 1.05s; }
+
+    @media (prefers-reduced-motion: reduce) { .sw, .dot { animation: none; } .dot { opacity: 1; } }
+  </style>
+
+  <rect width="1200" height="300" fill="#0D1117"/>
+  <rect width="1200" height="300" fill="url(#grid)" opacity="0.6"/>
+
+  <!-- ── left: identity ─────────────────────────────────────── -->
+  <text x="70" y="108" class="mono" font-size="13" letter-spacing="5.5" fill="#F0883E">FULL STACK ENGINEER</text>
+  <text x="68" y="172" class="sans" font-size="58" font-weight="700" fill="#E6EDF3">Biswajit Das</text>
+  <rect x="70" y="196" width="86" height="3" rx="1.5" fill="#F0883E"/>
+  <text x="70" y="232" class="mono" font-size="13.5" fill="#8B949E">Java · Spring Boot · React · AWS</text>
+  <text x="70" y="256" class="mono" font-size="13.5" fill="#6E7681">4.5+ years shipping to production</text>
+
+  <!-- ── right: the stack ───────────────────────────────────── -->
+  <path d="M 648 60 L 640 60 L 640 250 L 648 250" fill="none" stroke="#30363D" stroke-width="1.5"/>
+  <text transform="rotate(-90 618 155)" x="618" y="155" text-anchor="middle"
+        class="mono" font-size="10.5" letter-spacing="4" fill="#6E7681">END TO END</text>
+
+  <!-- interface -->
+  <rect x="672" y="60" width="468" height="40" rx="8" fill="#161B22" stroke="#21262D"/>
+  <g clip-path="url(#c1)"><rect class="sw d1" x="672" y="60" width="240" height="40" fill="url(#sweepBlue)"/></g>
+  <circle class="dot d1" cx="696" cy="80" r="3.5" fill="#58A6FF"/>
+  <text x="716" y="85" class="mono" font-size="10.5" letter-spacing="2.5" fill="#8B949E">INTERFACE</text>
+  <text x="1120" y="85" text-anchor="end" class="sans" font-size="13.5" fill="#C9D1D9">React · TypeScript · Tailwind</text>
+
+  <!-- service -->
+  <rect x="672" y="110" width="468" height="40" rx="8" fill="#161B22" stroke="#21262D"/>
+  <g clip-path="url(#c2)"><rect class="sw d2" x="672" y="110" width="240" height="40" fill="url(#sweep)"/></g>
+  <circle class="dot d2" cx="696" cy="130" r="3.5" fill="#F0883E"/>
+  <text x="716" y="135" class="mono" font-size="10.5" letter-spacing="2.5" fill="#8B949E">SERVICE</text>
+  <text x="1120" y="135" text-anchor="end" class="sans" font-size="13.5" fill="#C9D1D9">Spring Boot · Node · REST</text>
+
+  <!-- data -->
+  <rect x="672" y="160" width="468" height="40" rx="8" fill="#161B22" stroke="#21262D"/>
+  <g clip-path="url(#c3)"><rect class="sw d3" x="672" y="160" width="240" height="40" fill="url(#sweep)"/></g>
+  <circle class="dot d3" cx="696" cy="180" r="3.5" fill="#F0883E"/>
+  <text x="716" y="185" class="mono" font-size="10.5" letter-spacing="2.5" fill="#8B949E">DATA</text>
+  <text x="1120" y="185" text-anchor="end" class="sans" font-size="13.5" fill="#C9D1D9">PostgreSQL · MongoDB · Redis</text>
+
+  <!-- infra -->
+  <rect x="672" y="210" width="468" height="40" rx="8" fill="#161B22" stroke="#21262D"/>
+  <g clip-path="url(#c4)"><rect class="sw d4" x="672" y="210" width="240" height="40" fill="url(#sweep)"/></g>
+  <circle class="dot d4" cx="696" cy="230" r="3.5" fill="#F0883E"/>
+  <text x="716" y="235" class="mono" font-size="10.5" letter-spacing="2.5" fill="#8B949E">INFRA</text>
+  <text x="1120" y="235" text-anchor="end" class="sans" font-size="13.5" fill="#C9D1D9">AWS · Docker · CI/CD</text>
+
+</svg>
